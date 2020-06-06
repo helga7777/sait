@@ -1,0 +1,53 @@
+body {
+  background: #000000;;
+  font-family: Verdana, sans-serif;
+  font-size:14px;
+}
+.container {
+line-height:50px;
+padding: 20px;
+color:#000000;
+margin: 0 auto;
+font-size:16px;
+}
+.main {
+background: #000000;
+margin: 0 auto;
+height:80%;
+
+}
+
+.card {
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+color: #FFFFFF;
+}
+main.row > div { 
+  background: #ffffff; 
+
+  padding:10px;
+}
+
+a.active{
+	padding:10px;
+	
+	color: #ffffff;
+}
+a:visited {
+	color:#800080;
+}
+a:hover {
+
+	border-bottom: 3px solid red;
+	background: #211100;
+	color:#00f0f0;
+	
+}
+footer.row > div {
+	background: #557179;
+	line-height:50px;
+	padding: 20px;
+	color:#ffffff;
+}
+	
